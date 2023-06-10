@@ -3,7 +3,7 @@ Implement Matrix Multiplication using GPU.
 
 ## Aim:
 To implement Matrix Multiplication using GPU.
-## ##Step 1 :
+## Step 1 :
 Include the required files and library.
 ## Step 2 :
 Declare the block size and the size of elements .
